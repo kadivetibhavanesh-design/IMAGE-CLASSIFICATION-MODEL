@@ -38,3 +38,8 @@ This project demonstrates the practical implementation of Deep Learning and Imag
 
 Overall, the project successfully implemented a CNN-based image classification system using TensorFlow and achieved high accuracy on the MNIST dataset. The task highlights the importance of Deep Learning in modern image recognition applications such as face recognition, medical imaging, handwritten text recognition, and object detection systems.
 
+<img width="1553" height="481" alt="Image" src="https://github.com/user-attachments/assets/62a52c0a-18f3-4f6d-a8d2-e008e1b6009f" />
+
+<img width="894" height="673" alt="Image" src="https://github.com/user-attachments/assets/2da49202-774b-42c5-ab07-6e8874f48825" />
+
+<img width="1066" height="125" alt="Image" src="https://github.com/user-attachments/assets/1ef6bb9e-5fcc-4399-80f4-938ff9e52b29" />
